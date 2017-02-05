@@ -1,0 +1,10 @@
+{
+  "pg_prod_db_url": "postgres://postgres@localhost:5432/skilltest-backend",
+  "pg_test_db_url": "postgres://postgres@localhost:5432/skilltest-backend-test",
+  "aws_db": "postgres://maqnrebmfc:hdrhrfcown@assignment.codsssqklool.eu-central-1.rds.amazonaws.com:5432/maqnrebmfc_db",
+  "test_case_baseURL":"http://localhost:8335/test",
+  "use_aws_db":false,
+  "page_limit":10,
+  "port":8335,
+  "no_of_cluster":4
+}
