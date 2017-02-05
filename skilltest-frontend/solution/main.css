@@ -123,6 +123,9 @@ body{
 }
 
 @media (max-width: 839px){
+  body{
+    padding: 10px 0 0;
+  }
   .container-main{
     height: auto;
     /*display: table-caption;*/
